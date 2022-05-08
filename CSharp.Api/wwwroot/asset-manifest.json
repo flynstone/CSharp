@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e534de06.css",
+    "main.js": "/static/js/main.3979bba4.js",
+    "static/js/787.627756db.chunk.js": "/static/js/787.627756db.chunk.js",
+    "static/media/cqrs.png": "/static/media/cqrs.9e885ea838b636715e3a.png",
+    "static/media/CleanArchitecture.jpg": "/static/media/CleanArchitecture.26ac5f08c770e19c35a8.jpg",
+    "static/media/logo.png": "/static/media/logo.50fc7e490e690a41fe1c.png",
+    "index.html": "/index.html",
+    "main.e534de06.css.map": "/static/css/main.e534de06.css.map",
+    "main.3979bba4.js.map": "/static/js/main.3979bba4.js.map",
+    "787.627756db.chunk.js.map": "/static/js/787.627756db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e534de06.css",
+    "static/js/main.3979bba4.js"
+  ]
+}

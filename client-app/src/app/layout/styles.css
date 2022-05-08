@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Grandstander' !important;
+  font-size: 18px !important;
+  background-color: #0f1533;
+  background-image: url("https://www.transparenttextures.com/patterns/dark-tire.png");
+  color: white;
+}
+
+a {
+  text-decoration: none !important;
+  color: white !important;
+}
+
+footer {
+  position: relative;
+  margin-top: 3rem;
+  bottom:0;
+  width:100%;
+  background:#4f4f4f;
+}
+
+.tab {
+  background: teal !important;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-family: 'Grandstander' !important;
+}
+
+h3 {
+  font-family: 'Grandstander' !important;
+  color: white;
+}
+
+article {
+  display: block;
+  padding: 2rem;
+}
+
+.button {
+  align-items: center;
+  font-family: 'Grandstander' !important;
+}
+
+.value {
+  font-family: 'Grandstander' !important;
+}
+
+.header {
+  font-family: 'Grandstander' !important;
+}
+
+.content {
+  font-family: 'Grandstander' !important;
+}
+
+.item {
+  font-family: 'Grandstander' !important;
+}
+
+.label {
+  font-family: 'Grandstander' !important;
+  color: beige !important;
+}
+
+.Image {
+  display: flex;
+  padding: 2rem;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.Container {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+.Comment {
+  display: flex;
+  flex-direction: column;
+  padding-left: 2rem;
+}
+
+.Fill {
+  display: flex;
+  padding: 2rem;
+  padding-left: 8rem;
+  flex-direction: column;
+  min-width: 50vw !important;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem;
+}
+
+.Text {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.Header {
+  display: flex;
+  width: 100vw;
+  height: 7vh;
+}
+
+.Row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: beige;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

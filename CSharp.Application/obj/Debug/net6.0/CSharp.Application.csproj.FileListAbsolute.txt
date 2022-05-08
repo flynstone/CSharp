@@ -1,0 +1,17 @@
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Application.deps.json
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Application.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Application.pdb
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Data.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Entities.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Data.pdb
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\bin\Debug\net6.0\CSharp.Entities.pdb
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.csproj.AssemblyReference.cache
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.AssemblyInfoInputs.cache
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.AssemblyInfo.cs
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.csproj.CoreCompileInputs.cache
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.csproj.CopyComplete
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\refint\CSharp.Application.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\CSharp.Application.pdb
+C:\Users\flyns\source\repos\CSharp\CSharp.Application\obj\Debug\net6.0\ref\CSharp.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\bin\Debug\net6.0\CSharp.Entities.deps.json
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\bin\Debug\net6.0\CSharp.Entities.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\bin\Debug\net6.0\CSharp.Entities.pdb
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.csproj.AssemblyReference.cache
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.AssemblyInfoInputs.cache
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.AssemblyInfo.cs
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\refint\CSharp.Entities.dll
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\CSharp.Entities.pdb
+C:\Users\flyns\source\repos\CSharp\CSharp.Entities\obj\Debug\net6.0\ref\CSharp.Entities.dll
